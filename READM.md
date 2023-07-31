@@ -1,3 +1,0 @@
-# Vagrant
- * What is ubuntu
-
